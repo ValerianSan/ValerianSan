@@ -28,7 +28,9 @@ A developer with a passion for web and game development. During the day, I delve
 
 In the grand saga of my life, I like to think of myself as a bit of a Samurai Chef of Otaku Town. Whether I'm whipping up a ramen broth that would make even Naruto jealous or getting lost in video game lore, it's all part of the fun. My knowledge of Japanese history and folklore? Let's just say the ancient spirits might give me a nod now and then. And when it comes to mangas and animes, I've probably watched more episodes than there are grains of rice in my favorite dishes. Oh, and I also compose and sing in Japanese, and I adore covering anime songs with my band. It's a wild mix, but it keeps life interesting!
 
-<img align="right" src="https://github.com/user-attachments/assets/49541ff9-4b1c-4520-b5e3-3c8e2a680b48" alt="image" />
+
+
+<img align="right" src="https://github.com/user-attachments/assets/5aef75c1-d01d-4aa6-8a92-ad303cb96287" alt="image" />
 
 <img src="https://github.com/user-attachments/assets/bf2efe79-daf1-4461-b147-4bd05628330e" alt="image" />
 <img src="https://github.com/user-attachments/assets/4dc6aff1-8f9f-473e-b94f-7cc0fe6f47f8" alt="image" />
